@@ -1,0 +1,18 @@
+body{
+  color: black;
+}
+.one{
+  margin: 100px;
+  background-color:whitesmoke;
+  height: 40vh;
+  width: 80vh;
+  box-shadow:10px 10px 10px 10px black;
+}
+input{
+  margin-top: 2%;
+  outline-color: wheat;
+  margin-left: 5%;
+}
+h2{
+  margin-left: 5%;
+}
